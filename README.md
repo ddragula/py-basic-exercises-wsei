@@ -32,7 +32,8 @@ A program retrieving data about universities from an API, using multithreading (
 
 ### 2.4 Function Value Calculation
 A program calculating the values of the function:  
-$$ f(x) = \cos(x) + \ln(x + 1)^2 $$  
+![Bez tytułu](https://github.com/user-attachments/assets/b2d24fb4-58c2-4657-abcd-9a7ee2b1987d)
+
 using parallel processing (`multiprocessing` module).
 
 ### 2.5 BankAccount Class
