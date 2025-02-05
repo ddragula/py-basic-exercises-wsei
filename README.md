@@ -1,10 +1,10 @@
 # py-basic-exercises-wsei
 
-## Project Description
+## Description
 
 A collection of Python programming exercises completed as part of final assignments for classes at WSEI.
 
-## Project Structure
+## Structure
 
 ```
 .
@@ -51,7 +51,7 @@ A program reading data from IMGW in XML format, processing information about win
 1. Clone the repository:
    ```bash
    git clone <repository_address>
-   cd PY-EXERCISES-1-WSEI
+   cd py-basic-exercises-wsei
    ```
 2. Create and activate a virtual environment:
    ```bash
